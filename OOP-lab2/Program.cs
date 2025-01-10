@@ -48,6 +48,7 @@ namespace OOP_lab2
                 else
                 {
                     Console.WriteLine("heightTriangle cant be less or equal 0");
+
                 }
             }
         }
